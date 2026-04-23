@@ -50,32 +50,11 @@ It includes a modular backend booking system built using Flask, allowing users t
 
 ---
 
-## 🧪 Example API Usage
 
-### Book a Slot
-
-```json
-POST /book
-{
-  "slot": 5,
-  "user": "Divyanshu"
-}
-```
-
-### Cancel a Booking
-
-```json
-POST /cancel
-{
-  "slot": 5
-}
-```
-
----
 
 ## ▶️ Run Locally
 
-```bash
+
 git clone https://github.com/divyanshurai2009/PARK-SENSE-AI.git
 cd parksense-ai
 pip install -r requirements.txt
@@ -104,7 +83,7 @@ http://127.0.0.1:5000
 * Database integration (SQLite/MongoDB)
 * User authentication system
 * Real-time sensor/IoT integration
-* AI-based vehicle detection
+
 
 ---
 
