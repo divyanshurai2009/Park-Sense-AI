@@ -7,6 +7,17 @@ It includes a modular backend booking system built using Flask, allowing users t
 
 ---
 
+## 📸 Screenshots
+
+![Full Dashboard](Screenshots/full-dashboard.png)
+![Dashboard Overview](Screenshots/dashboard-overview.png)
+![Smart Features](Screenshots/smart-features.png)
+![Parking Layout](Screenshots/parking-layout.png)
+![Analytics Insights](Screenshots/analytics-insights.png)
+![Booking Panel](Screenshots/booking-panel.png)
+![Booking History](Screenshots/booking-history.png)
+---
+
 ## 🚀 Features
 
 ### 🅿️ Parking Dashboard
